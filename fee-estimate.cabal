@@ -30,7 +30,9 @@ library
   build-depends:
       base >= 4.7 && < 5
   exposed-modules:
+      Bucket
       Lib
+      Units
   default-language: Haskell2010
 
 executable fee-estimate-exe

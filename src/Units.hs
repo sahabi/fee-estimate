@@ -7,10 +7,10 @@ module Units
   ) where
 
 data Bitcoin a = SAT Double
-             | UBTC Double
-             | MBTC Double
-             | BTC Double
-               deriving(Show)
+               | UBTC Double
+               | MBTC Double
+               | BTC Double
+                 deriving(Show)
 
 instance Eq (Bitcoin a) where
   x == y = toSATVal x == (toSATVal y)

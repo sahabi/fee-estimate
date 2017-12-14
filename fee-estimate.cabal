@@ -6,11 +6,11 @@ name:           fee-estimate
 version:        0.1.0.0
 synopsis:       Short description of your package
 description:    Please see the README on Github at <https://github.com/githubuser/fee-estimate#readme>
-homepage:       https://github.com/githubuser/fee-estimate#readme
-bug-reports:    https://github.com/githubuser/fee-estimate/issues
-author:         Author name here
-maintainer:     example@example.com
-copyright:      2017 Author name here
+homepage:       https://github.com/sahabi/fee-estimate#readme
+bug-reports:    https://github.com/sahabi/fee-estimate/issues
+author:         sahabi
+maintainer:     sahabi@gmail.com
+copyright:      2017 sahabi
 license:        BSD3
 license-file:   LICENSE
 build-type:     Simple

@@ -1,10 +1,10 @@
 name:                fee-estimate
 version:             0.1.0.0
-github:              githubuser/fee-estimate
+github:              sahabi/fee-estimate
 license:             BSD3
-author:              Author name here
-maintainer:          example@example.com
-copyright:           2017 Author name here
+author:              sahabi 
+maintainer:          sahabi@gmail.com
+copyright:           2017 sahabi
 
 extra-source-files:
 - README.md

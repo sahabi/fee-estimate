@@ -20,7 +20,8 @@ synopsis:            Short description of your package
 description:         Please see the README on Github at <https://github.com/githubuser/fee-estimate#readme>
 
 dependencies:
-- base >= 4.7 && < 5
+- base >= 4.7 && < 5 
+- QuickCheck
 
 library:
   source-dirs: src

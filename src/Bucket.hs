@@ -5,7 +5,7 @@ module Bucket
 import Units (Bitcoin)
 
 
-data Bucket = Bucket { range :: ( Bitcoin , Bitcoin )
+data Bucket = Bucket { range :: ( Bitcoin Double, Bitcoin Double)
                      , nUnconf :: Integer
                      , nConf :: Int
                      , prob :: Double
